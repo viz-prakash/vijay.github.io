@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aravind Machiry @ PurS3 Lab"
+title                    : "Vijay Prakash"
 title_separator          : "-"
-name                     : &name "Aravind Machiry"
-description              : &description "Assistant Professor at Purdue University"
-url                      : https://machiry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Vijay Prakash"
+description              : &description "Senior Security Researcher at Palo Alto Networks"
+url                      : https://viz-prakash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "machiry.github.io"
+repository               : "viz-prakash.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aravind Machiry"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor @ Purdue ECE"
-  location         : "West Lafayette"
-  employer         : "https://engineering.purdue.edu/ECE"
+  name             : "Vijay Prakash"
+  avatar           : "vijay-profile-pic.jpeg"
+  bio              : "Security Researcher"
+  location         : "Bay Area"
+  employer         : "Palo Alto Networks"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=7R7KmIkAAAAJ&hl=en"
-  email            : "amachiry@purdue.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=7R7KmIkAAAAJ&hl=en"
+  email            : "vijay.prakash@ufl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "machiry"
+  github           : "viz-prakash"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "machiry_msidc"
+  twitter          : #"NULL_by_0"
   vine             :
   weibo            :
   xing             :

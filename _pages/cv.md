@@ -8,40 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, University of California, Santa Barbara, CA, USA, 2014 - 2020
-* MS in Information Security, Georgia Institute of Technology, Atlanta, GA, USA, 2013
-* BE in Computer Science, R.V College of Engineering, Bengaluru, KA, India.
+<object data="https://viz-prakash.github.io/files/Vijay_Prakash_Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <!--p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p-->
+        <iframe src="http://docs.google.com/gview?url=http://example.com/mypdf.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
-Work experience
-======
-* Fall 2020: Postdoctoral Researcher
-  * University of Pennsylvania.
+    </embed>
+</object>
 
-* Summer 2019: Visiting Researcher
-  * University of Maryland, College Park.
-
-* Summer 2018: Research Intern
-  * Symantec Research Labs (SRL), Culver City.
-
-* Jun 2013 - Sep 2014: Software Security Engineer
-  * Qualcomm R&D, San Diego.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
