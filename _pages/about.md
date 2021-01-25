@@ -18,10 +18,9 @@ and AWS previously.
 Research Interest
 ------
 I am interested in all aspects of computer security; as I am in early stage of my career, I am trying to find my niche.
- In particular, I would like to build tools or OS constructs to help in building
- secure softwares, building systems to make
- internet little bit more safe, and conduct empirical studies to find out flaws
- in online platforms. I have also curiosity towards applied cryptography.
+In general, I want to improve digital security and privacy by creating tools or OS constructs for the development of
+ secure software, building systems that make the internet safer, and conducting studies that reveal
+ security issues in online platforms.
 
 I like participating in security competitions, like Capture the Flag (CTF) and blue team
 competitions, permiting time. I play CTF with KernelSanders (UF Security Information Security team)
